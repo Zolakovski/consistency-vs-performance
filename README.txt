@@ -45,8 +45,8 @@ The focus is on understanding how stable (consistent) a player's performance is 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/Zolaki/consistency-vs-performance.git
-   cd consistency-vs-performance-csgo-majors
+   git clone https://github.com/Zolakovski/consistency-vs-performance.git
+cd consistency-vs-performance
 
 ---
 
@@ -55,3 +55,4 @@ The focus is on understanding how stable (consistent) a player's performance is 
 Here is the scatter plot showing the **Top 20 players** ranked by consistency and performance:
 
 ![Top 20 Scatter](figures/top20.png)
+
