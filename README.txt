@@ -45,6 +45,7 @@ The focus is on understanding how stable (consistent) a player's performance is 
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/consistency-vs-performance-csgo-majors.git
+   git clone https://github.com/Zolaki/consistency-vs-performance.git
    cd consistency-vs-performance-csgo-majors
+
 
