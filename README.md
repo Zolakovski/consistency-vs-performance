@@ -17,7 +17,7 @@ The focus is on understanding how stable (consistent) a player's performance is 
 ## 📐 Formulas Used
 
 - **Weighted Average Rating**  
-  ![Weighted Average Rating](formulas/weighted_average.png)
+  ![Weighted Average Rating](formulas/weighted_average_rating.png)
 
 - **Weighted Variance**  
   ![Variance](formulas/variance.png)
@@ -55,6 +55,7 @@ cd consistency-vs-performance
 Here is the scatter plot showing the **Top 20 players** ranked by consistency and performance:
 
 ![Top 20 Scatter](figures/top20.png)
+
 
 
 
