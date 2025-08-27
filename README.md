@@ -56,3 +56,4 @@ Here is the scatter plot showing the **Top 20 players** ranked by consistency an
 
 ![Top 20 Scatter](figures/top20.png)
 
+
